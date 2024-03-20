@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1710906784 source:c:\users\aarav\onedrive\documents\codeblocks\balanced parenthesis\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
