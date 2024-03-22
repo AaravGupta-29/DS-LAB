@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1711119993 source:c:\users\aarav\onedrive\documents\codeblocks\expression evaluation\main.c
+	<stdio.h>
+	<string.h>
+
